@@ -1,0 +1,3 @@
+[submodule "smart_led_notifications"]
+	path = smart_led_notifications
+	url = https://github.com/JavierUTSJR/smartledNotifications.git

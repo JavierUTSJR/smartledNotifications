@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "495014251217",
+    "firebase_url": "https://pacientes-364ab-default-rtdb.firebaseio.com",
+    "project_id": "pacientes-364ab",
+    "storage_bucket": "pacientes-364ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495014251217:android:81a2e8e98da5d44ad0d3f0",
+        "android_client_info": {
+          "package_name": "com.javikirito.smartled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495014251217-5ciur8thtvlhk4ptert206rc5816upf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBszGRUW8vj-Vq-n48lhlSm1iyJGUy6CMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495014251217-5ciur8thtvlhk4ptert206rc5816upf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
